@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fecf5b6d-b942-43bb-9f80-e2da346ee965" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Яныбаева Дина.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/яныбаева_дина.py" afterDir="false" />
+    <list default="true" id="fecf5b6d-b942-43bb-9f80-e2da346ee965" name="Changes" comment="Создан файл программы, добавлено ФИО">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/яныбаева_дина.py" beforeDir="false" afterPath="$PROJECT_DIR$/яныбаева_дина.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +158,15 @@
       <option name="presentableId" value="Default" />
       <updated>1790926227502</updated>
     </task>
+    <task id="LOCAL-00001" summary="Создан файл программы, добавлено ФИО">
+      <option name="closed" value="true" />
+      <created>1790926874077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790926874077</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,5 +179,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создан файл программы, добавлено ФИО" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создан файл программы, добавлено ФИО" />
   </component>
 </project>
